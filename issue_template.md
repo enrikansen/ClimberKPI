@@ -1,4 +1,4 @@
-### Are you using the latest version 1.6.1 of the Climber KPI? If no, upgrade and see if the issue is fixed.
+### Are you using the latest version 1.6.2 of the Climber KPI? If no, upgrade and see if the issue is fixed.
 
 ### Versions
 * Extension version:
